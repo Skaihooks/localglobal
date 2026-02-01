@@ -1,0 +1,4 @@
+baseURL = 'https://localglobal.study/'
+languageCode = 'en-us'
+title = 'LocalGlobal'
+theme = 'PaperMod'
