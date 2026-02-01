@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>LocalGlobal</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on LocalGlobal</description>
+    <title>Posts on LocalGlobal</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on LocalGlobal</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Jan 2026 22:32:25 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Local Global Means</title>
       <link>http://localhost:1313/posts/what-local-global-means/</link>
       <pubDate>Sat, 31 Jan 2026 22:32:25 -0800</pubDate>
       <guid>http://localhost:1313/posts/what-local-global-means/</guid>
-      <description>&lt;p&gt;Welcome to &lt;strong&gt;Local-Global&lt;/strong&gt;!&lt;/p&gt;
+      <description>&lt;p&gt;Welcome to **Local-Global**!&lt;/p&gt;
 &lt;p&gt;This site is intended to explore ideas at the intersection of mathematics, philosophy, design, ecology, and human spaces.&lt;/p&gt;
-&lt;h2 id=&#34;why-local-global&#34;&gt;Why &amp;ldquo;Local-Global&amp;rdquo;?&lt;/h2&gt;
-&lt;p&gt;The local-global perspective emphasizes understanding &lt;em&gt;how local decisions or events interact with global systems&lt;/em&gt;, whether in mathematics, ecology, or elsewhere.&lt;/p&gt;</description>
+&lt;p&gt;## Why &amp;ldquo;Local-Global&amp;rdquo;?&lt;/p&gt;
+&lt;p&gt;The local-global perspective emphasizes understanding **how local decisions or events interact with global systems**, whether in mathematics, ecology, or elsewhere.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
