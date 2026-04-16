@@ -3,7 +3,7 @@ title: "Energy Transition"
 date: 2026-04-15
 lastmod: 2026-04-15
 math: true
-draft: false
+draft: true
 description: "The material and thermodynamic constraints on replacing fossil energy systems."
 tags: []
 domains: []

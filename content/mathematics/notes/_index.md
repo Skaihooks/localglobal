@@ -2,7 +2,7 @@
 title: "Mathematical Notes"
 date: 2026-04-15
 math: true
-draft: false
+draft: true
 description: "Selected polished notes — proofs, connections, and expositions that illuminate what textbooks leave dark."
 ---
 

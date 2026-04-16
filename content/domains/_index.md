@@ -2,7 +2,7 @@
 title: "Domains"
 date: 2026-04-15
 math: false
-draft: false
+draft: true
 description: "The analytical lenses through which the project examines civilisational problems — each an intellectual discipline brought to bear on concrete crises."
 ---
 

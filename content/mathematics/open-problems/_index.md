@@ -2,7 +2,7 @@
 title: "Open Problems"
 date: 2026-04-15
 math: true
-draft: false
+draft: true
 description: "A monthly series: one unsolved problem, stated clearly, with history, partial results, and why it matters."
 ---
 

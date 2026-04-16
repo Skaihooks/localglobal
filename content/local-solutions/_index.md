@@ -3,7 +3,7 @@ title: "Local Solutions"
 date: 2026-04-15
 lastmod: 2026-04-15
 math: false
-draft: false
+draft: true
 description: "Place-specific investigations — solutions that work because of particular geography, culture, institutions, and history."
 ---
 

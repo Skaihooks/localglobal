@@ -3,7 +3,7 @@ title: "Water Scarcity"
 date: 2026-04-15
 lastmod: 2026-04-15
 math: true
-draft: false
+draft: true
 description: "The mathematics of aquifer depletion, river allocation, and the physical constraints on agricultural and urban water use."
 tags: []
 domains: []

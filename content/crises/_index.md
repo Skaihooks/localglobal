@@ -2,7 +2,7 @@
 title: "Civilisational Crises"
 date: 2026-04-15
 math: false
-draft: false
+draft: true
 description: "The concrete problems this project exists to address, each examined through the formal tools of mathematics, philosophy, and ecological economics."
 ---
 

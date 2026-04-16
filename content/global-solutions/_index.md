@@ -3,7 +3,7 @@ title: "Global Solutions"
 date: 2026-04-15
 lastmod: 2026-04-15
 math: false
-draft: false
+draft: true
 description: "Place-independent frameworks and interventions — solutions that work because of physics, structure, and logic rather than local context."
 ---
 

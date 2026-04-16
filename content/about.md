@@ -3,7 +3,7 @@ title: "About"
 date: 2026-04-15
 lastmod: 2026-04-15
 math: false
-draft: false
+draft: true
 description: "Who I am, what I'm working on, and where this is headed."
 ---
 

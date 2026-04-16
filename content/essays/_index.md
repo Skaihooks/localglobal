@@ -2,7 +2,7 @@
 title: "Essays"
 date: 2026-04-15
 math: false
-draft: false
+draft: true
 description: "All essays — Substack cross-posts and website originals — in reverse chronological order."
 ---
 

@@ -2,7 +2,7 @@
 title: "Mathematics"
 date: 2026-04-15
 math: false
-draft: false
+draft: true
 description: "The mathematical depth layer: curriculum, methodology, open problems, and selected notes."
 ---
 

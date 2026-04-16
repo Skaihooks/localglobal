@@ -3,7 +3,7 @@ title: "Annotated Bibliography"
 date: 2026-04-15
 lastmod: 2026-04-15
 math: false
-draft: false
+draft: true
 description: "Every paper, book, and resource informing the notation project, annotated by relevance."
 toc: true
 ---

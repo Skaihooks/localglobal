@@ -2,7 +2,7 @@
 title: "Library"
 date: 2026-04-15
 math: false
-draft: false
+draft: true
 description: "The personal library: honest reviews, cross-domain connections, and self-study recommendations for every text I have read, abandoned, or plan to read."
 ---
 
