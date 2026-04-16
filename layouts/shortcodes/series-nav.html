@@ -1,0 +1,16 @@
+{{ if .Page.Params.series }}
+<nav class="series-nav">
+  <p class="series-label">Part of the series: <strong>{{ .Page.Params.series }}</strong></p>
+  {{ $series := .Page.Params.series }}
+  {{ $current := .Page.Params.series_order }}
+  {{ $pages := where .Site.RegularPages "Params.series" $series }}
+  {{ $sorted := sort $pages "Params.series_order" }}
+  <ul>
+  {{ range $sorted }}
+    <li{{ if eq .Params.series_order $current }} class="current"{{ end }}>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+  {{ end }}
+  </ul>
+</nav>
+{{ end }}
