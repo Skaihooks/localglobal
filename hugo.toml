@@ -2,3 +2,18 @@ baseURL = 'https://localglobal.study/'
 languageCode = 'en-us'
 title = 'LocalGlobal'
 theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  mainSections = ["posts", "essays"]
+
+  [params.homeInfoParams]
+    Title = "Local-Global"
+    Content = "Mathematics, philosophy, ecological economics, and civilisational design. Investigating what shared ends we ought to pursue — and what physical reality permits."
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:schultzchristian@outlook.com"

@@ -1,3 +1,15 @@
-CLAUDE.md
-.claude/
-scaffold-site.ps1
+# Hugo build output
+public/
+resources/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Local tooling and scripts
+.*/
+*.ps1
+*.local.*
+/[A-Z]*.md
