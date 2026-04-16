@@ -12,7 +12,7 @@ theme = 'PaperMod'
 
   [params.homeInfoParams]
     Title = "Local-Global"
-    Content = "Mathematics, philosophy, ecological economics, and civilisational design. Investigating what shared ends we ought to pursue — and what physical reality permits."
+    Content = "Exploring the mathematics, philosophy, and ecological economics of civilisational design. In particular, pondering what shared ends we, as a collection of agents in a shared world, ought to pursue, and what physical reality permits."
 
   [[params.socialIcons]]
     name = "email"

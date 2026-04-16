@@ -6,4 +6,4 @@ draft: false
 description: "A monthly series: one unsolved problem, stated clearly, with history, partial results, and why it matters."
 ---
 
-<!-- Index of open problem entries, by number and by mathematical domain. -->
+Open problem entries will appear here monthly. Each states an unsolved problem so a bright teenager could understand it, explains why mathematicians care, and describes partial progress.

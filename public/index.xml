@@ -6,8 +6,64 @@
     <description>Recent content in Home on LocalGlobal</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Jan 2026 22:32:25 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://localglobal.study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://localglobal.study/about/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://localglobal.study/about/</guid>
+      <description>Who I am, what I&amp;#39;m working on, and where this is headed.</description>
+    </item>
+    <item>
+      <title>Annotated Bibliography</title>
+      <link>https://localglobal.study/notation/references/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://localglobal.study/notation/references/</guid>
+      <description>Every paper, book, and resource informing the notation project, annotated by relevance.</description>
+    </item>
+    <item>
+      <title>Annotated Reading List</title>
+      <link>https://localglobal.study/mathematics/reading-list/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://localglobal.study/mathematics/reading-list/</guid>
+      <description>A phase-organised curriculum with honest annotations — what each text actually teaches, not what the publisher promises.</description>
+    </item>
+    <item>
+      <title>Colophon</title>
+      <link>https://localglobal.study/colophon/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://localglobal.study/colophon/</guid>
+      <description>How this site is built, what tools are used, and what design decisions were made and why.</description>
+    </item>
+    <item>
+      <title>Design Log</title>
+      <link>https://localglobal.study/notation/design-log/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://localglobal.study/notation/design-log/</guid>
+      <description>A chronological narrative of major design decisions, interesting failures, and evidence-driven changes.</description>
+    </item>
+    <item>
+      <title>Experiments</title>
+      <link>https://localglobal.study/notation/experiments/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://localglobal.study/notation/experiments/</guid>
+      <description>Empirical results from perceptual discriminability, error rate, derivation speed, and cross-domain transfer measurements.</description>
+    </item>
+    <item>
+      <title>How I Study Mathematics</title>
+      <link>https://localglobal.study/mathematics/study-system/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://localglobal.study/mathematics/study-system/</guid>
+      <description>The complete methodology: periodised schedule, error journal, synthesis journal, flashcard strategy, and competition mathematics integration.</description>
+    </item>
+    <item>
+      <title>Notation Specification</title>
+      <link>https://localglobal.study/notation/specification/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://localglobal.study/notation/specification/</guid>
+      <description>The living specification: radical vocabulary, domain markers, composition rules, and translation tables. Current version.</description>
+    </item>
     <item>
       <title>What Local Global Means</title>
       <link>https://localglobal.study/posts/what-local-global-means/</link>

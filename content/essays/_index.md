@@ -6,4 +6,4 @@ draft: false
 description: "All essays — Substack cross-posts and website originals — in reverse chronological order."
 ---
 
-<!-- Reverse-chronological essay index. Filterable by domain and series tags. -->
+Essays will appear here as they are published. Each essay is time-stamped, argumentative, and links into the deeper reference layers of the site.

@@ -6,4 +6,4 @@ draft: false
 description: "Selected polished notes — proofs, connections, and expositions that illuminate what textbooks leave dark."
 ---
 
-<!-- Index of mathematical notes. Only include notes that show something a textbook doesn't. -->
+Notes will appear here as they are written. Only notes that illuminate something a textbook does not.

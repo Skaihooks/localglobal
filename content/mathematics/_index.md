@@ -6,4 +6,4 @@ draft: false
 description: "The mathematical depth layer: curriculum, methodology, open problems, and selected notes."
 ---
 
-<!-- Landing page for the mathematics section. Brief orientation for each subsection. -->
+This section houses the mathematical infrastructure of the project: an annotated reading list, a study methodology, selected polished notes, and a monthly open problems series. Content is forthcoming.
