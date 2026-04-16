@@ -9,4 +9,4 @@ tags: []
 domains: []
 ---
 
-Content forthcoming. This page will examine the destruction of topsoil — measurable in centimetres per decade lost and centuries per recovery — and the formal tools for understanding it.
+Content forthcoming.

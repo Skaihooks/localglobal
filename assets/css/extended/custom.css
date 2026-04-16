@@ -1,0 +1,38 @@
+/* Typeface: Source Serif 4 — open-source serif, excellent for long reading */
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..900;1,8..60,300..900&display=swap');
+
+body {
+    font-family: 'Source Serif 4', 'Georgia', serif;
+}
+
+/* Keep headings clean with slightly heavier weight */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Source Serif 4', 'Georgia', serif;
+    font-weight: 600;
+}
+
+/* Monospace for code stays untouched */
+code, pre, .highlight {
+    font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace;
+}
+
+/* Accent colour: warm muted brown — recedes into the page for comfortable reading */
+:root {
+    --primary: #5c6b5e;
+    --secondary: #74877a;
+}
+
+/* Dark mode accent — lighter variant for contrast */
+.dark {
+    --primary: #6fbfae;
+    --secondary: #5aa898;
+}
+
+/* Links inherit the accent */
+a {
+    color: var(--primary);
+}
+
+a:hover {
+    color: var(--secondary);
+}

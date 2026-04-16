@@ -9,4 +9,4 @@ tags: []
 domains: []
 ---
 
-Content forthcoming. This page will examine aquifer depletion, river allocation, and the physical constraints on water use at agricultural and urban scales.
+Content forthcoming. This topic hits particularly close to home and has played a major role in shaping my perspective on the relationship between human civilization and natural resources. Here I will examine aquifer depletion, river allocation, and the physical constraints on water use at agricultural and urban scales.

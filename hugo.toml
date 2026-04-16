@@ -16,4 +16,49 @@ theme = 'PaperMod'
 
   [[params.socialIcons]]
     name = "email"
-    url = "mailto:schultzchristian@outlook.com"
+    url = "mailto:localglobal@protonmail.com"
+
+[[menu.main]]
+  name = "Essays"
+  url = "/essays/"
+  weight = 10
+
+[[menu.main]]
+  name = "Crises"
+  url = "/crises/"
+  weight = 20
+
+[[menu.main]]
+  name = "Local Solutions"
+  url = "/local-solutions/"
+  weight = 30
+
+[[menu.main]]
+  name = "Global Solutions"
+  url = "/global-solutions/"
+  weight = 40
+
+[[menu.main]]
+  name = "Domains"
+  url = "/domains/"
+  weight = 50
+
+[[menu.main]]
+  name = "Mathematics"
+  url = "/mathematics/"
+  weight = 60
+
+[[menu.main]]
+  name = "Notation"
+  url = "/notation/"
+  weight = 70
+
+[[menu.main]]
+  name = "Library"
+  url = "/library/"
+  weight = 80
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 90
